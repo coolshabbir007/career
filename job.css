@@ -1,0 +1,32 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body{
+	overflow-x: hidden;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.nav-item{
+  font-size: 30px;
+  font-family: "Roboto";
+  font-weight: bolder;
+}
+
+.nav-item:hover{
+  
+  border-bottom: 2px solid orange;
+}
+
+
+.header{
+	color: #00bfd8;
+	font-size: 3rem;
+	font-family: turquoise;
+	font-weight: bolder;
+}
