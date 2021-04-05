@@ -1,32 +1,31 @@
-*{
+* {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
 }
-body{
-	overflow-x: hidden;
+
+body {
+  overflow-x: hidden;
 }
 
-a{
+a {
   text-decoration: none;
   color: black;
 }
 
-.nav-item{
+.nav-item {
   font-size: 30px;
   font-family: "Roboto";
   font-weight: bolder;
 }
 
-.nav-item:hover{
-  
-  border-bottom: 2px solid orange;
+.nav-item:hover {
+  border-bottom: 2px solid cyan;
 }
 
-
-.header{
-	color: #00bfd8;
-	font-size: 3rem;
-	font-family: turquoise;
-	font-weight: bolder;
+.header {
+  color: #00bfd8;
+  font-size: 3rem;
+  font-family: turquoise;
+  font-weight: bolder;
 }
